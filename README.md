@@ -139,6 +139,11 @@ To deploy your version on Streamlit Cloud:
 4. Select your repository and specify `app.py` as the entry point
 5. Deploy and share the link
 
+## Live Demo  
+
+Try out the deployed application here:  
+AI-Powered Medical Diagnosis System - https://diagnosify-app.streamlit.app/ 
+
 ---
 
 ## Disclaimer
